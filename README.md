@@ -3,7 +3,7 @@
  💻 Computer Science and Engineering graduate\
  🔬 Researching on detecting and analyzing text on documents. 🧪\
  😍 Passionate about engineering novel solutions on autonomous intelligent machines and systems that can alleviate lives and do social good. 🥰\
- 👩‍💻 Software Engineer @ Essentia Softserv\
+ 👩‍💻 Senior Software Engineer @ Prismberry Technologies\
  🚖 Autonomous Intelligent Vehicles enthusiast with impact on social good! 🏎 + 👩‍👩‍👦‍👦\
  🐧 Founding member @ [ASET ALiAS](https://github.com/asetalias)\
  🐍 Design Team @ [PyCon India](https://github.com/pythonindia), [PyDelhi Conf](https://pydelhi.org)\
