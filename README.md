@@ -5,19 +5,33 @@
 💻 8+ years building from bits to products. \
 🔬 Deep diving to solve for autonomous intelligent machines and systems.
 
-### 0 → 1 → ∞
+### 🐧 0 → 1 → ∞
  
 *Previously,*\
-📈 **First Gen AI Hire** @ AAA [❊](https://aaa.com).\
+📈 **First Gen AI Hire** @ [AAA].\
    → Built flagship roadside assistance *(+6 products)* **0 → 1**, scaling to **60,000+ DAU**.
 
-🐧 [Built community](http://www.jaintanya.com/industry/alias) & Growth **0 → 3,000+** @ ASET ALiAS 🚀 \
-🐍 Design Team @ PyCon India [❊](https://github.com/pythonindia), PyDelhi Conf [❊](https://pydelhi.org)\
-📊 Open Source Contributor @ Pandas [❊](https://github.com/pandas-dev/pandas)\
+🚀 [Built community] & Growth **0 → 3,000+** @ ASET ALiAS \
+🐍 Design Team @ PyCon India, PyDelhi Conf\
+📊 Open Source Contributor @ [Pandas]\
 ✍🏻 Reached **25,000+ devs** at Stack Overflow \
-👩🏼‍🎓 Masters & BTech in Computer Science. Specialised in AI.\
-🎗️ [Mentoring](http://www.jaintanya.com/contributing/mentorships) @ Girl Tech Power, Exercism, ASET ALiAS ++
+👩🏼‍🎓 Masters ( @ [USFCA] ) & BTech in Computer Science. Specialised in AI.\
+🎗️ [Mentoring] @ Girl Tech Power, Exercism, ASET ALiAS ++
 
-🛠️ Stack Agnostic. From assembly to LLMs. Thrives on the command line and UNIX Philosophy [❊](https://en.wikipedia.org/wiki/Unix_philosophy) 🐧.\
-🌱 Passionate about technology, feminism, environment, equality.
- 
+🛠️ Stack Agnostic. From assembly to LLMs. Thrives on the command line.\
+👩🏻‍🏫 Philosphies - [UNIX Philosophy], First Principles Thinking, Regret minimization\
+🌱 Passionate about technology, feminism, environment.
+
+---
+<sub> [AAA], [Pandas], [PyDelhi Conf], [PyCon India], [University of San Francisco][usfca] </sub>
+
+[aaa]: https://aaa.com
+[pandas]: https://github.com/pandas-dev/pandas
+[pydelhi conf]: https://pydelhi.org
+[pycon india]: https://github.com/pythonindia
+[usfca]: https://usfca.edu
+
+[built community]: http://www.jaintanya.com/industry/alias
+[mentoring]: http://www.jaintanya.com/contributing/mentorships
+
+[UNIX Philosophy]: https://en.wikipedia.org/wiki/Unix_philosophy
